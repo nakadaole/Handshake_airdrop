@@ -5,6 +5,7 @@ Handshake 从硅谷VC A16Z 与 Sequoia 处进行了募资，随后向 GNU、Mozi
 
 ## 要求
 1. 2019年2月4日 以前有 16 位以上 GitHub 粉丝的，可领取目前价值 $2000 的 handshake代币空投
+2. 仍然有当时的 SSH Key
 
 ## 详细链接
 

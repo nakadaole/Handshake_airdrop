@@ -30,7 +30,6 @@ https://www.namebase.io/airdrop
 7. 到账后需要KYC领取空投，领取后可以兑换成BTC或者法币，或者竞拍域名
 
 ## 中文社区微信交流群 ( 内有HandShake官方人员 )
-
 欢迎加入交流 “羊腿”空投、域名竞拍、去中心化DNS相关
 ![](https://i.imgur.com/mnghSNX.png)
 

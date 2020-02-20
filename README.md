@@ -7,8 +7,15 @@ Handshake 刚刚从硅谷VC A16Z 与 Sequoia 处进行了募资，随后向 GNU�
 现在将对符合条件的github开发者进行 4662 Handshake代币的空投（价值0.14BTC 约1400美金 10000人民币 可以立即兑换！
 
 ## 要求
-1. 2019年2月4日 以前有 16 位以上 GitHub 粉丝的，可领取目前价值 $2000 的 handshake代币空投
-2. 仍然有当时的 SSH Key
+只要你的 Github 粉丝数量符合条件，就可领取Handshake的空投福利。
+
+同时符合以下条件，既可以领取 `4,246.994314` 枚HNS，可以直接兑换成BTC或者人民币。
+目前大概价值 $600。
+
+- 在`2019-02-04`前 Github账户绑定过SSH Key的用户
+- 在`2019-02-04`前有15个以上 GitHub 粉丝的用户
+
+https://www.namebase.io/airdrop
 
 ## 操作教程
 
